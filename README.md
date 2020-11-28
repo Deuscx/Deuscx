@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I’m Deuscx 👋
 
 <!--
 **Deuscx/Deuscx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ✨ Welcome to my Github page! I am Deuscx,a  web developer
+- 📫 Read more about my [blog](https://deuscx.github.io/)
+- 💬 Follow me: [bilibili](https://space.bilibili.com/19510750),[twitter](https://twitter.com/DeusYue)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Deuscx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
