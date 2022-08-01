@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 - 📫 Read more about my [blog](https://deuscx.github.io/)
 - 💬 Follow me: [bilibili](https://space.bilibili.com/19510750),[twitter](https://twitter.com/DeusYue)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Deuscx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<details>
+  <summary>More </summary>
+* 👑   Some GitHub statistical reports:
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deuscx&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=deuscx&column=7" alt="halfrost's Github Trophy" />
+</p>
+
+</details>
