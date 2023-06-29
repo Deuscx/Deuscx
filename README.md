@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 - ✨ Welcome to my Github page! I am Deuscx,a  web developer
 - 🌱 I’m currently learning React, Rust
+- ⚡ Technology:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+
 <!-- - languages and tools: -->
 
 <!-- Latest Blog Posts: -->
