@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <!-- Latest Blog Posts: -->
 
 ##  Recent GitHub Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<picture>
+  <img src="/metrics.plugin.activity.svg" alt="Metrics">
+</picture>
 
 ## Github Stats
 <img align="left" alt="deuscx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deuscx&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
