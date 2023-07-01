@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ##  Recent GitHub Activity
 
 <picture>
-  <img src="/metrics.plugin.activity.svg" alt="Metrics">
+  <img src="https://raw.githubusercontent.com/Deuscx/Deuscx/main/metrics.plugin.activity.svg" alt="Metrics">
 </picture>
 
 ## Github Stats
