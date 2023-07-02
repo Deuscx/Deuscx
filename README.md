@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 
 <!-- Latest Blog Posts: -->
 
-##  Recent GitHub Activity
+## Recent GitHub Activity
 
-<picture>
-  <img src="https://raw.githubusercontent.com/Deuscx/Deuscx/main/metrics.plugin.activity.svg" alt="Metrics">
-</picture>
+<img 
+alt="" 
+width="400" 
+src="https://github.com/Deuscx/Deuscx/blob/main/metrics.plugin.activity.svg" alt=""></img>
 
 ## Github Stats
+
 <img align="left" alt="deuscx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deuscx&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
