@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudioCode)
+![Neovim](https://img.shields.io/badge/-neovim-black?style=flat-square&logo=neovim)
 <!-- - languages and tools: -->
 
 <!-- Latest Blog Posts: -->
